@@ -1,5 +1,5 @@
 ---
-author: student name
+author: Riley Ellis
 title: "Han Coin with Greek Inscription"
 layout: base
 header-image: images/han-coin-two-sides-blushwood.png
