@@ -1,9 +1,9 @@
 ---
-author: student name
-title: "Han Coin with Greek Inscription"
+author: Riley Ellis
+title: "Textile with Floral Medallion"
 layout: base
-header-image: images/han-coin-two-sides-blushwood.png
-thumbnail: images/han-coin-blushwood.png
+header-image: images/Textile with Floral Medallion.jpg
+thumbnail: images/Textile with Floral Medallion.jpg
 summary: One or two sentences about the coin but this one is not from Bukhara.
 geo: [39.877, 64.408]
 placename: Bukhara
@@ -22,8 +22,8 @@ The text below is mostly filler to show how an essay flows, but we'll call out k
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
-image-path="images/han-coin-blushwood.png"
+caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source: The Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search/39595)"
+image-path="images/Textile with Floral Medallion.jpg"
 %}
 
 This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
