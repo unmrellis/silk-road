@@ -1,6 +1,6 @@
 ---
 author: Riley Ellis
-title: "A Child's Coat with Ducks in Pearl Roundel"
+title: "A Childs Coat with Ducks in Pearl Roundel"
 layout: base
 header-image: images/A Childs Coat with Ducks in Pearl Roundel.jpg
 thumbnail: images/A Childs Coat with Ducks in Pearl Roundel.jpg
