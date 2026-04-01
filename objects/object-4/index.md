@@ -2,8 +2,8 @@
 author: Riley Ellis
 title: "A Childs Coat with Ducks in Pearl Roundel"
 layout: base
-header-image: images/A Childs Coat with Ducks in Pearl Roundel.jpg
-thumbnail: images/A Childs Coat with Ducks in Pearl Roundel.jpg
+header-image: images/childs-coat.jpg
+thumbnail: images/childs-coat.jpg
 summary: One or two sentences about the coin but this one is not from Bukhara.
 geo: [39.877, 64.408]
 placename: Bukhara
@@ -23,7 +23,7 @@ The text below is mostly filler to show how an essay flows, but we'll call out k
 class="right"
 width="48%"
 caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source: The Cleveland Museum of Art](https://www.clevelandart.org/art/1996.2)"
-image-path="images/A Childs Coat with Ducks in Pearl Roundel.jpg"
+image-path="images/childs-coat.jpg"
 %}
 
 This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
