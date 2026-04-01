@@ -19,11 +19,11 @@ The text below is mostly filler to show how an essay flows, but we'll call out k
 
 
 ## Your First Section Heading
-{% include images/Woven Silk.jpg
+{% include figure.html
 class="right"
 width="48%"
 caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source: Victoria and Albert Museum](https://collections.vam.ac.uk/item/O84931/woven-silk-unknown/)"
-image-path="images/han-coin-blushwood.png"
+image-path="images/Woven Silk.jpg"
 %}
 
 This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
