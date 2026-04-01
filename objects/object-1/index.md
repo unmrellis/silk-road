@@ -22,7 +22,7 @@ The text below is mostly filler to show how an essay flows, but we'll call out k
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
+caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source: Victoria and Albert Museum ](https://collections.vam.ac.uk/item/O84931/woven-silk-unknown/)"
 image-path="images/han-coin-blushwood.png"
 %}
 
