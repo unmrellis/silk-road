@@ -3,7 +3,7 @@ author: student name
 title: "Senmurv"
 layout: base
 header-image: images/Woven Silk.jpg
-thumbnail: images/han-coin-blushwood.png
+thumbnail: images/Woven Silk.jpg
 summary: One or two sentences about the coin but this one is not from Bukhara.
 geo: [39.877, 64.408]
 placename: Bukhara
