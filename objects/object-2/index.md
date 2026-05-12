@@ -22,7 +22,7 @@ Sample Text Sample Text Sample Text Sample Text  Sample Text Sample Text  Sample
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source: The Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search/466156)"
+caption="[Source: The Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search/466156)"
 image-path="images/Roundel with Amazons and a Cross.jpg"
 %}
 
