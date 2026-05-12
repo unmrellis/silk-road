@@ -11,7 +11,7 @@ tags:
   - object
 ---
 
-# The Webpage for object 4
+# A Childs Coat with Ducks in Pearl Roundel
 
 This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
 
