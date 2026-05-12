@@ -2,7 +2,7 @@
 author: Riley Ellis
 title: "Roundel Patterns on the Silkroad"
 layout: base
-header-image: images/ota-gate-khiva2.jpg
+header-image: images/Roundel Overview Image.jpg
 thumbnail: images/ota-gate-demo-gray.png
 summary: Roundel Patterns on the Silkroad 
 ---
