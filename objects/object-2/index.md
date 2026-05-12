@@ -11,11 +11,11 @@ tags:
   - object
 ---
 
-# The Webpage for object 2
+# Roundel with Amazons and a Cross
 
-This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
+Sample Text Sample Text Sample Text Sample Text  Sample Text Sample Text  Sample Text Sample Text  Sample Text Sample Text  Sample Text Sample Text  Sample Text Sample Text  Sample Text Sample Text  Sample Text Sample Text  Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text  Sample Text Sample Text  Sample Text Sample Text  Sample Text Sample Text  Sample Text Sample Text  Sample Text Sample Text  Sample Text Sample Text  Sample Text Sample Text  Sample Text Sample Text  Sample Text Sample Text Sample Text Sample Text  Sample Text Sample Text  Sample Text Sample Text  Sample Text Sample Text  Sample Text Sample Text  Sample Text Sample Text  Sample Text Sample Text  Sample Text Sample Text  Sample Text Sample Text 
+ 
 
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
 
 
 ## Your First Section Heading
